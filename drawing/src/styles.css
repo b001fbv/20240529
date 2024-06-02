@@ -1,0 +1,7 @@
+body {
+  overflow: hidden;
+}
+
+#draw-area {
+  background-color: rgb(233, 143, 143);
+}
